@@ -87,9 +87,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-dedede?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-584a40?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-b6a899?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-dedede?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-584a40?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-b6a899?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 <br>
