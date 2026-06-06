@@ -57,7 +57,7 @@
   <br>
   
   <img src="https://64.media.tumblr.com/93724586c893fb5363add84feb8a2f91/c386207701a03e4c-4d/s75x75_c1/fd0a8a27d70e3764fed438ae623c5c474d7a491e.gif" width="15px" height="15px"/>
-  . I'm learning SQL, Node.js, React, JavaScript, and TypeScript. I'm dedicated to learning Java and C#.
+  . I'm learning Python and Data Engineering, with a growing focus on Artificial Intelligence and Large Language Models.
   
   <br>
   
