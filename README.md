@@ -62,7 +62,7 @@
   <br>
   
   <img src="https://64.media.tumblr.com/02a89f8f33d116682a7e0ee53e78a4b2/92dff24d7a47ddd2-09/s75x75_c1/5ad0c2d987cba382763b073f2547fe42d8b606ba.gif" width="15px" height="15px"/>
-  . In my free time, I enjoy creating mini-games and websites with my own aesthetic freedom, and singing.
+  . In my free time, I enjoy building software solutions focused on real-world needs and market demands.
   
   <br>
   
